@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+body, html {
+    height: 100%;
+  }
+/*front page*/
+.bc{
+    height: 100%;
+    width: 100%;
+  
+}
+.gradient{
+    width: 35%;
+    position: absolute;
+    left: 65%;
+    top:20%
+}
+
+.quote1{
+    width: 80%;
+    position: absolute;
+    left: 10%;
+    top:30%;
+    color: aliceblue;
+    font-size: 350%;
+    font-family: le jour serif;
+}
+
+/*navigation bar*/
+.logo{
+    width: 6%;
+    position: absolute;
+    left: 2%;
+    top:2%
+}
+.nav-bar-content{
+    font-weight: bold;
+    position: absolute;
+    left: 35%;
+    top:5%;
+    word-spacing: 25px;
+    font-size:large;
+}
+.nav-bar-content a{
+    color: aliceblue;
+    text-decoration: none;
+    
+    
+}
+.nav-bar-content a:hover{
+   background-color: aliceblue;
+    color: rgb(4, 102, 109);
+}
+
+.contact{
+    position: absolute;
+    right: 4%;
+    top:5%;
+    word-spacing: 15px;
+}
+
+.contact a{
+    color: aliceblue;
+    text-decoration: none;
+ 
+}
+.contact a:hover{
+   background-color: aliceblue;
+    color: rgb(4, 102, 109);
+}
+.i{
+    font-size: 170%;
+}
